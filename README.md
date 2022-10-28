@@ -2,8 +2,9 @@
 
 ## prerequisite
 
-First setup your linux distro from [here](https://flatpak.org/setup/) according to your distro.
+1. First setup your linux distro from [here](https://flatpak.org/setup/) according to your distro.
 
+2. Then install flatpak builder 
 ```bash
 flatpak install flathub org.flatpak.Builder
 ```
